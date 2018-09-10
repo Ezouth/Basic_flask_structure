@@ -1,5 +1,5 @@
 ECHO is on.
 venv/
-
+__pycache__/
 #### venv folder and all its contents now ignored when staging files
 #### we don't have one now but if you have passwords etc this is v important
